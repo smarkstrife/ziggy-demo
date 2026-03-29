@@ -5,8 +5,7 @@
                                                                                                                                                            
   ## How it works                                                                                                                                        
 
-  Move your mouse to guide Ziggy across the page - the story text wraps around him as he moves, using pretext's `layoutNextLine` API to measure and fit    
-  each line into the available space around his body. Click to release butterflies.
+  Move your mouse to guide Ziggy across the page - the story text wraps around him as he moves, using pretext's `layoutNextLine` API to measure and fit each line into the available space around his body. Click to release butterflies.
                                                                                                                                                            
   ## Built with                                                                                                                                          
 
